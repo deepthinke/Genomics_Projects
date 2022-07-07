@@ -1,0 +1,29 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --file 1_1-150000
+  --make-bed
+  --out 1_1-150000
+
+Hostname: hackbio
+Working directory: /home/einstein/project4/kolawole
+Start time: Sat Jul  2 08:36:34 2022
+
+Random number seed: 1656750994
+32144 MB RAM detected; reserving 16072 MB for main workspace.
+Scanning .ped file... done.
+Warning: Variant 54 triallelic; setting rarest alleles missing.
+Performing single-pass .bed write (987 variants, 2504 people).
+--file: 1_1-150000-temporary.bed + 1_1-150000-temporary.bim +
+1_1-150000-temporary.fam written.
+987 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to 1_1-150000.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2504 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999977.
+987 variants and 2504 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to 1_1-150000.bed + 1_1-150000.bim + 1_1-150000.fam ... done.
+
+End time: Sat Jul  2 08:36:36 2022
